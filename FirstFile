@@ -1,12 +1,31 @@
 <html>
 <head>
-    'First file'
 </head>
 <body>
+<<<<<<< HEAD
 	<p>My Location is Pune32</p>
 	<p>My Location is Pune2</p>
 	<p>My Location is Pune3</p>
 		<p>My Location is Pune32</p>
+		
+<<<<<<< HEAD
+	<p>My Location is Pune32</p>
+	<p>My Location is Pune2</p>
+	<p>My Location is Pune3</p>
+		<p>My Location is Pune32</p>
+		
+<<<<<<< HEAD
+	<p>My Location is Pune32</p>
+	<p>My Location is Pune2</p>
+	<p>My Location is Pune3</p>
+		<p>My Location is Pune32</p>
+		
+<<<<<<< HEAD
+	<p>My Location is Pune32</p>
+	<p>My Location is Pune2</p>
+	<p>My Location is Pune3</p>
+		<p>My Location is Pune32</p>
+		
 			<p>My Location is Pune32</p>
 				<p>My Location is Pune32</p>
 					<p>My Location is Pune32</p>
@@ -14,4 +33,8 @@
 					pramodhadawale2704
 					pramodhadawale2704
 	</body>
+=======
+<p>hfjgjk</p>
+</body>
+>>>>>>> branch 'main' of https://github.com/pramodhadawale2704/FirstProject.git
 </html>
